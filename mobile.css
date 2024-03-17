@@ -1,0 +1,9 @@
+@media (max-width: 650px) {
+  /*navbar*/
+  .span-ul {
+    display: none;
+  }
+  .img-ul {
+    display: block;
+  }
+}
